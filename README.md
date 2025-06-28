@@ -4,7 +4,7 @@
 💻 I’m a software enthusiast who loves building meaningful tech.
 
 - 🔭 Currently working on: React + Backend Projects  
-- 🌱 Learning: TypeScript and System Design  
+- 🌱 Learning: MongoDB & SQL
 - 📫 Reach me at: divyanshyadav206@gmail.com
 
 ---
