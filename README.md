@@ -5,7 +5,10 @@
 
 - 🔭 Currently working on: React + Backend Projects  
 - 🌱 Learning: MongoDB & SQL
-- 📫 Reach me at: divyanshyadav206@gmail.com
+- 📫 Reach me at
+- personal mail: divyanshyadav206@gmail.com
+- college mail : divyansh.22011127ec@iiitbh.ac.in
+- official mail : divyadav259@gmail.com
 
 ---
 
