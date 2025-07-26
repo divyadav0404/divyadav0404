@@ -7,7 +7,7 @@ I'm a Full-Stack Web Developer passionate about building clean, functional, and 
 
 > Always exploring new tech, building useful apps, and writing clean code.
 
-- personal mail: divyanshyadav206@gmail.com
+- personal mail : divyanshyadav206@gmail.com
 - college mail : divyansh.22011127ec@iiitbh.ac.in
 - official mail : divyadav259@gmail.com
 
