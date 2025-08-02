@@ -13,8 +13,6 @@ I'm a Full-Stack Web Developer passionate about building clean, functional, and 
 
 ---
 
-## 📊 GitHub Metrics
-
 ## 📊 My GitHub Stats
 
 <p align="center">
