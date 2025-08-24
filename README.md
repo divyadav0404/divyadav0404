@@ -33,11 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadav0404&layout=compact&theme=tokyonight" height="140"/>
 </p>  
 
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/divyadav0404/divyadav0404/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
@@ -58,6 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadav0404/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/divyadav0404)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://divyadav0404.github.io)  
+
 
 ---
