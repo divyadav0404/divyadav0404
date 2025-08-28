@@ -46,10 +46,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=divyadav0404&theme=tokyonight&no-frame=true&row=1)
 
----
 
 ## 💻 Coding Vibes  
 <p align="center">
