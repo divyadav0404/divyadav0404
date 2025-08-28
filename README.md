@@ -41,7 +41,7 @@
 ---
 
 ## ✨ Inspirational Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming)
 
 ---
 
