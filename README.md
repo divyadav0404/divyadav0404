@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Divyansh Yadav  
 
 💻 A **Full-Stack Web Developer** passionate about building clean, scalable, and user-friendly web applications.  
@@ -7,20 +8,22 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>  
 
 ---
 
@@ -35,17 +38,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadav0404&layout=compact&theme=tokyonight" height="140"/>
 </p>  
 
+---
+
 ## 👀 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=divyadav0404&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyadav0404&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/divyadav0404?label=Followers&style=flat"/>
+</p>
 
 ---
 
 ## ✨ Inspirational Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming"/>
+</p>
 
 ---
-
-
 
 ## 💻 Coding Vibes  
 <p align="center">
@@ -54,12 +63,7 @@
 
 ---
 
-
-
----
-
 ## 📈 Contribution Graph  
-
 ![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyadav0404&theme=tokyo-night)  
 
 ---
@@ -73,9 +77,8 @@
 
 ## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadav0404/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/divyadav0404)  
-[![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Divyansh-Yadav-67)
-
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyadav0404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/divyadav0404"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.quora.com/profile/Divyansh-Yadav-67"><img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white"/></a>
+</p>
