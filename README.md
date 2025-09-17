@@ -79,9 +79,12 @@
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyadav0404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/divyadav0404"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.quora.com/profile/Divyansh-Yadav-67"><img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/yadav_d05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/divyadav0404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.quora.com/profile/Divyansh-Yadav-67" target="_blank"><img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/yadav_d05/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@divyanshyadav3954" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
+
 
