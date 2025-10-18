@@ -87,9 +87,7 @@
   <a href="https://www.codechef.com/users/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 ---
-## 🐍 Watch my contributions snake
 
-![snake gif](https://github.com/divyadav0404/divyadav0404/blob/output/github-contribution-grid-snake.svg)
 
 
 
