@@ -30,6 +30,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyadav0404&show_icons=true&theme=tokyonight&count_private=true" height="160" /> <img src="https://streak-stats.demolab.com?user=divyadav0404&theme=tokyonight&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadav0404&layout=compact&theme=tokyonight" height="140" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyadav0404&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
 
 ## 👀 Profile Views  
 
