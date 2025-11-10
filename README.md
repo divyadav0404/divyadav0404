@@ -87,8 +87,10 @@
   <a href="https://leetcode.com/u/yadav_d05/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.youtube.com/@divyanshyadav3954" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Div_05dub" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 </p>
-
 
 
 
