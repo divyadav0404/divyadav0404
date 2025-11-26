@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Divyansh Yadav !!
 
-💻 A **Full-Stack Web Developer** passionate about building clean, scalable, and user-friendly web applications.  
+💻 A **Full-Stack Web Developer** passionate about building clean, scalable, and user-friendly web applications..! 
 🌱 Always exploring new technologies, solving problems with **DSA + C++**, and creating projects that matter.  
 
 ---
