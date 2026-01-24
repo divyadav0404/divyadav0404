@@ -89,21 +89,47 @@
 ---
 
 ## 🌐 Let's Connect  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyadav0404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.quora.com/profile/Divyansh-Yadav-67" target="_blank"><img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/yadav_d05/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@divyanshyadav3954" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/divyadav0404" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Div_05dub" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
- <a href="https://codolio.com/profile/divdubey" target="_blank">
- <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/divyadav0404/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/divyadav0404" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.quora.com/profile/Divyansh-Yadav-67" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/yadav_d05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@divyanshyadav3954" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/divyadav0404" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Div_05dub" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/divdubey" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-4B9CD3?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  </a>
+
+  <!-- Added platforms -->
+  <a href="https://www.naukri.com/code360/profile/Divyadav" target="_blank">
+    <img src="https://img.shields.io/badge/CodeStudio-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/divyanshyolcb" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/divyadav259" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+  <a href="https://atcoder.jp/users/Divyanshy" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
+  </a>
 </p>
+
 
 
 
