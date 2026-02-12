@@ -132,18 +132,20 @@
     <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
 </p>
----
+
+### ⭐ Like what you see? Show some ❤️ by starring the repositories!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+</p>
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
-
 ![Profile Last Updated](https://img.shields.io/github/last-commit/divyadav0404/divyadav0404?label=Profile%20Updated&style=flat-square)
 
-**Keep learning, keep building, keep growing 🚀**
+**Thanks for visiting! Let’s keep creating, learning, and growing together 🚀🌱**
 
 </div>
-
 
 
 
