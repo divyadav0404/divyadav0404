@@ -39,7 +39,6 @@
 ---
 
 ## 📊 GitHub Stats  
----
 
 ## 🐍 Contribution Snake
 
@@ -47,13 +46,8 @@
   <img src="https://raw.githubusercontent.com/divyadav0404/divyadav0404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=divyadav0404&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadav0404&theme=tokyonight&hide_border=false" height="165" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=divy
 
 <p align="center">
   <!-- Top Languages -->
