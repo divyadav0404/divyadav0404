@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Divyansh Yadav !!
 
 💻 A **Full-Stack Web Developer** passionate about building clean, scalable, and user-friendly web applications..! 
+🎓 Electronics & Communication Engineering Student (IIIT Bhagalpur)
 🌱 Always exploring new technologies, solving problems with **DSA + C++**, and creating projects that matter... 
 
 ---
@@ -38,6 +39,14 @@
 ---
 
 ## 📊 GitHub Stats  
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyadav0404/divyadav0404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -129,6 +138,17 @@
     <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
 </p>
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+![Profile Last Updated](https://img.shields.io/github/last-commit/divyadav0404/divyadav0404?label=Profile%20Updated&style=flat-square)
+
+**Keep learning, keep building, keep growing 🚀**
+
+</div>
 
 
 
