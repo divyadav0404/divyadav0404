@@ -40,20 +40,18 @@
 
 ## 📊 GitHub Stats  
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/divyadav0404/divyadav0404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyadav0404&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divy
-
-<p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadav0404&layout=compact&theme=tokyonight" height="140" />
 </p>
 
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyadav0404/divyadav0404/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 ## 👀 Profile Views  
