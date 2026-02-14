@@ -131,6 +131,8 @@
   </a>
 </p>
 
+---
+
 ### ⭐ Like what you see? Show some ❤️ by starring the repositories!
 
 <p align="center">
@@ -138,6 +140,8 @@
 </p>
 
 <div align="center">
+
+---
 
 ![Profile Last Updated](https://img.shields.io/github/last-commit/divyadav0404/divyadav0404?label=Profile%20Updated&style=flat-square)
 
